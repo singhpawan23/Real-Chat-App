@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("CommunityVerticalsEventFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("1032");c=b("FalcoLoggerInternal").create("community_verticals_event",a);e.exports=c}),null);
+__d("GroupHighlightVpvFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("356");c=b("FalcoLoggerInternal").create("group_highlight_vpv",a);e.exports=c}),null);
+__d("GroupLeadersEngagementFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("1743660");c=b("FalcoLoggerInternal").create("group_leaders_engagement",a);e.exports=c}),null);
+__d("GroupNavMenuActionFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("2341");c=b("FalcoLoggerInternal").create("group_nav_menu_action",a);e.exports=c}),null);
